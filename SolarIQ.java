@@ -1,4 +1,3 @@
-package JDBC.Project;
 
 import java.sql.*;
 import java.util.Random;
@@ -920,3 +919,4 @@ public class SolarIQ {
     }
 
 }
+
